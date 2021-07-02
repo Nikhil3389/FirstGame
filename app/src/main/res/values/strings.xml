@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tictoe</string>
+    <string name="heading">Welcome_to_tic</string>
+    <string name="grid">Our main grid</string>
+    <string name="grid1">our grid</string>
+    <string name="status">X\'s turn tap to play</string>
+</resources>
